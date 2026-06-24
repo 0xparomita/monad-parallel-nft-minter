@@ -1,0 +1,11 @@
+{
+  "name": "monad-parallel-nft-minter",
+  "version": "1.0.0",
+  "description": "State-sharded high-throughput parallel NFT minting framework for Monad EVM",
+  "main": "simulateParallelMint.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
